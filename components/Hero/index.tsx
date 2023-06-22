@@ -5,7 +5,7 @@ const Hero = () => {
     <>
       <section
         id="home"
-        className="relative z-10 overflow-hidden pt-[120px] pb-16 md:pt-[150px] md:pb-[120px] xl:pt-[180px] xl:pb-[160px] 2xl:pt-[210px] 2xl:pb-[200px]"
+        className="relative z-10 overflow-hidden pt-[100px] pb-16 md:pt-[150px] md:pb-[120px] xl:pt-[180px] xl:pb-[160px] 2xl:pt-[210px] 2xl:pb-[200px]"
       >
         <div className="container">
           <div className="-mx-4 flex flex-wrap">
@@ -15,23 +15,33 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                Free and Open-Source Next.js Template for Startup & SaaS
+                  Kitchen Commercial Limited
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Startup is free Next.js template for startups and SaaS business websites comes with all the essential pages, components, and sections you need to launch a complete business website, built-with Next 13.x and Tailwind CSS.
+                  Kitchen Commercial Limited is a leading supplier of commercial
+                  kitchen equipment in Kenya. With a wide range of products from
+                  reputable brands, the company provides high-quality equipment
+                  and supplies to restaurants, hotels, and other foodservice
+                  establishments. <br /> <br /> With a focus on customer satisfaction, Kitchen
+                  Commercial Limited offers personalized service and expert
+                  advice to help customers find the right solutions for their
+                  unique needs. Whether you're looking for cooking equipment,
+                  refrigeration, or food prep supplies, Kitchen Commercial
+                  Limited has the expertise and resources to help you outfit
+                  your kitchen with the best equipment available.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
-                    href="https://nextjstemplates.com/templates/saas-starter-startup"
+                    href=""
                     className="rounded-md bg-primary py-4 px-8 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
-                   🔥 Get Pro
+                    Download Company profile
                   </Link>
                   <Link
-                    href="https://github.com/NextJSTemplates/startup-nextjs"
-                    className="rounded-md bg-black/20 py-4 px-8 text-base font-semibold text-black duration-300 ease-in-out hover:bg-black/30 dark:bg-white/20 dark:text-white dark:hover:bg-white/30"
+                    href=""
+                    className="rounded-md bg-primary py-4 px-8 text-base font-semibold text-black duration-300 ease-in-out hover:bg-black/30 dark:bg-white/20 dark:text-white dark:hover:bg-white/30"
                   >
-                    Star on GitHub
+                    Download Product Catalogue
                   </Link>
                 </div>
               </div>

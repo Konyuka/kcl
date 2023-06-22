@@ -14,7 +14,7 @@ const SingleFeature = ({ feature }: { feature: Feature }) => {
         <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
           {paragraph}
         </p>
-      </div>
+      </div> 
     </div>
   );
 };

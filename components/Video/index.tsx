@@ -14,7 +14,7 @@ const Video = () => {
       <div className="container">
         <SectionTitle
           title="We are ready to help"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Efficient solutions for your commercial kitchen needs. Our expert team is ready to help you find the right equipment and supplies to optimize your kitchen operations and drive your business forward."
           center
           mb="80px"
         />

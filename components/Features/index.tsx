@@ -11,8 +11,8 @@ const Features = () => {
       >
         <div className="container">
           <SectionTitle
-            title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            title="Equipment Categories"
+            paragraph="Elevate your kitchen with our comprehensive range of high-quality commercial kitchen equipment, designed to meet your every need and exceed your expectations"
             center
           />
 
