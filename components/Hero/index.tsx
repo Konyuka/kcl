@@ -25,7 +25,7 @@ const Hero = () => {
                   establishments. <br /> <br /> With a focus on customer satisfaction, Kitchen
                   Commercial Limited offers personalized service and expert
                   advice to help customers find the right solutions for their
-                  unique needs. Whether you're looking for cooking equipment,
+                  unique needs. Whether youre looking for cooking equipment,
                   refrigeration, or food prep supplies, Kitchen Commercial
                   Limited has the expertise and resources to help you outfit
                   your kitchen with the best equipment available.
